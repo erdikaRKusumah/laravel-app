@@ -23,6 +23,7 @@
                         <a class="nav-item nav-link active" href="{{url('/')}}">Home</a>
                         <a class="nav-item nav-link" href="/about">About</a>
                         <a class="nav-item nav-link" href="/mahasiswa">Mahasiswa</a>
+                        <a class="nav-item nav-link" href="/students">Students</a>
                     </div>
                  </div>
         </div>
